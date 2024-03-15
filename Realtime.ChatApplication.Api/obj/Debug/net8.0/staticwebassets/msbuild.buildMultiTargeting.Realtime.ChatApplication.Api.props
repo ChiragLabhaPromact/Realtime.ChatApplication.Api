@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Realtime.ChatApplication.Api.props" />
+</Project>

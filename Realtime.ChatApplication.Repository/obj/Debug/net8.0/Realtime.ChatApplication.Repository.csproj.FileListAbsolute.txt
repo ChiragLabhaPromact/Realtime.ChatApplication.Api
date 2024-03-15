@@ -1,0 +1,15 @@
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.Repository\bin\Debug\net8.0\Realtime.ChatApplication.Repository.deps.json
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.Repository\bin\Debug\net8.0\Realtime.ChatApplication.Repository.dll
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.Repository\bin\Debug\net8.0\Realtime.ChatApplication.Repository.pdb
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.Repository\obj\Debug\net8.0\Realtime.ChatApplication.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.Repository\obj\Debug\net8.0\Realtime.ChatApplication.Repository.AssemblyInfoInputs.cache
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.Repository\obj\Debug\net8.0\Realtime.ChatApplication.Repository.AssemblyInfo.cs
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.Repository\obj\Debug\net8.0\Realtime.ChatApplication.Repository.csproj.CoreCompileInputs.cache
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.Repository\obj\Debug\net8.0\Realtime.ChatApplication.Repository.dll
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.Repository\obj\Debug\net8.0\refint\Realtime.ChatApplication.Repository.dll
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.Repository\obj\Debug\net8.0\Realtime.ChatApplication.Repository.pdb
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.Repository\obj\Debug\net8.0\ref\Realtime.ChatApplication.Repository.dll
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.Repository\bin\Debug\net8.0\Realtime.ChatApplication.DomianModels.dll
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.Repository\bin\Debug\net8.0\Realtime.ChatApplication.DomianModels.pdb
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.Repository\obj\Debug\net8.0\Realtime.ChatApplication.Repository.csproj.AssemblyReference.cache
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.Repository\obj\Debug\net8.0\Realtime.ChatApplication.Repository.csproj.CopyComplete

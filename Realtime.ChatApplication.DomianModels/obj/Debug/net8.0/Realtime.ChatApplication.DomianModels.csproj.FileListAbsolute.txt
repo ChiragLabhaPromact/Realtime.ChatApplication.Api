@@ -1,0 +1,14 @@
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.DomianModels\bin\Debug\net8.0\Realtime.ChatApplication.DomianModels.deps.json
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.DomianModels\bin\Debug\net8.0\Realtime.ChatApplication.DomianModels.runtimeconfig.json
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.DomianModels\bin\Debug\net8.0\Realtime.ChatApplication.DomianModels.dll
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.DomianModels\bin\Debug\net8.0\Realtime.ChatApplication.DomianModels.pdb
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.DomianModels\obj\Debug\net8.0\Realtime.ChatApplication.DomianModels.csproj.AssemblyReference.cache
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.DomianModels\obj\Debug\net8.0\Realtime.ChatApplication.DomianModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.DomianModels\obj\Debug\net8.0\Realtime.ChatApplication.DomianModels.AssemblyInfoInputs.cache
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.DomianModels\obj\Debug\net8.0\Realtime.ChatApplication.DomianModels.AssemblyInfo.cs
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.DomianModels\obj\Debug\net8.0\Realtime.ChatApplication.DomianModels.csproj.CoreCompileInputs.cache
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.DomianModels\obj\Debug\net8.0\Realtime.ChatApplication.DomianModels.dll
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.DomianModels\obj\Debug\net8.0\refint\Realtime.ChatApplication.DomianModels.dll
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.DomianModels\obj\Debug\net8.0\Realtime.ChatApplication.DomianModels.pdb
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.DomianModels\obj\Debug\net8.0\Realtime.ChatApplication.DomianModels.genruntimeconfig.cache
+D:\ChatApplication\Backend\Realtime.ChatApplication.Api\Realtime.ChatApplication.DomianModels\obj\Debug\net8.0\ref\Realtime.ChatApplication.DomianModels.dll
